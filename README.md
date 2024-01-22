@@ -10,12 +10,11 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-- :telescope: I’m a budding Data Analyst and a lover of data and fintech.
+- :telescope: I’m a budding Data Analyst and a Chemistry Grad student (PhD).
 
 - :seedling: I love exploring technical writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and travel round the world!.
+- :zap: In my free time, I solve problems on GeeksforGeeks and travel around the world!
 
-- :mailbox:i am open for colloborations and opportunities to learn and grow!
-- ⚡ Fun fact: i love pets!
+- :mailbox: I am open to collaborations and opportunities to learn and grow!
 -->
