@@ -14,7 +14,7 @@
 
 - :seedling: I love exploring technical writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and travel around the world!
+- :zap: In my free time, I watch reality shows and travel.
 
 - :mailbox: I am open to collaborations and opportunities to learn and grow!
 -->
