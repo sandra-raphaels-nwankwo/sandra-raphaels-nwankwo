@@ -21,5 +21,5 @@
 - :mailbox: **Open to Opportunities**  
   Eager to collaborate and explore learning opportunities to further my career in data science.
 
-- ⏳ **Community**  
+- ⏳ **Dream**  
   My ultimate dream is to live as a digital nomad, experiencing cities and countries while pursuing a career I love.
