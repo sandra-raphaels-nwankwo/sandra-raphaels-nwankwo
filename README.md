@@ -9,7 +9,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- :telescope: **PhD Chemistry Student & Aspiring Data Scientist**
+- :telescope: **PhD Chemistry Student & Aspiring Data Scientist**  
   Currently pursuing a PhD in Chemistry and transitioning into data science with a focus on analytical problem-solving.
 
 - :seedling: **Technical Enthusiast**  
